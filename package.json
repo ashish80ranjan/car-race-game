@@ -1,0 +1,14 @@
+{
+  "name": "carracegame",
+  "version": "1.0.0",
+  "description": "gaming by thapa using js",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass":"node-sass sass/main.scss css/style.css"
+  },
+  "author": "ashish ranjan",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
